@@ -168,7 +168,11 @@
       left: 0%;
       bottom: 0%;
       object-fit: cover;
+      object-position: top;  /* Focuses the image on the top */
+      transform: scale(1.00); /* Slightly zoom out to reduce cropping */
+      transform-origin: center center; /* Optional: Keep zoom centered */
       border-radius: 22px;
+
     }
   }
 
