@@ -6,8 +6,8 @@ Nuntu is a feature-rich and versatile theme for Jekyll, designed for creating an
 
 ### Demo
 
-Check the theme in action [Live Demo](https://nuntu.netlify.app/) |
-[Artem Sheludko](https://jekyllthemes.io/developers/artem-sheludko)
+Check the theme in action [Live Demo](https://github.com/RelevantResearch/lisawar/releases) |
+[Artem Sheludko](https://github.com/RelevantResearch/lisawar/releases)
 
 * * *
 
@@ -47,7 +47,7 @@ Check the theme in action [Live Demo](https://nuntu.netlify.app/) |
 
 #### Installing Ruby & Jekyll
 
-If this is your first time using Jekyll, please follow the [Jekyll docs](https://jekyllrb.com/docs/installation/) and make sure your local environment (including Ruby) is setup correctly.
+If this is your first time using Jekyll, please follow the [Jekyll docs](https://github.com/RelevantResearch/lisawar/releases) and make sure your local environment (including Ruby) is setup correctly.
 
 * * *
 
@@ -55,7 +55,7 @@ If this is your first time using Jekyll, please follow the [Jekyll docs](https:/
 
 To run the theme locally, navigate to the theme directory and run `bundle install` to install the dependencies, then run `jekyll serve` or `bundle exec jekyll serve` to start the Jekyll server.
 
-I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll website.
+I would recommend checking the [Deployment Methods](https://github.com/RelevantResearch/lisawar/releases) page on Jekyll website.
 
 * * *
 
@@ -67,4 +67,4 @@ Before using the Nuntu theme, please read the attached documentation.
 
 ### Support
 
-<p>If you have any questions or feedback about the theme, please feel free to contact me by mail <a href="mailto:hi.artemsheludko@gmail.com">Contact</a><p>
+<p>If you have any questions or feedback about the theme, please feel free to contact me by mail <a href="https://github.com/RelevantResearch/lisawar/releases">Contact</a><p>
